@@ -1,0 +1,5 @@
+#pane{
+    -fx-background-color: radial-gradient(
+        center 0% 0%, radius 150%, #BBF, #EEF
+    );
+}
